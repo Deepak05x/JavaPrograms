@@ -17,3 +17,6 @@ public class MoveHyphen {
         System.out.println(hyphen + another);
     }
 }
+
+// THE GIVEN STRING HAS HYPHEN LIKE STRING-TEXT , IF IT HAS HYPHEN THEN IT
+// SHOULD MOVE THE HYPHEN TO THE STARTING OF THE STRING

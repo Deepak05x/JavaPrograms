@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumOfOdd {
+public class SumOfOddOrEven {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
@@ -18,3 +18,6 @@ public class SumOfOdd {
         System.out.println(Math.max(even, odd));
     }
 }
+
+// TO CHECK THE SUM OF THE ODD OR EVEN INTEGER FROM THE GIVEN INTEGER AND PRINT
+// THE GREATEST BETWEEN THEM
