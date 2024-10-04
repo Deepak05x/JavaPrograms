@@ -1,3 +1,6 @@
+import java.util.Iterator;
+import java.util.*;
+
 public class Bus {
     private int busno;
     private boolean ac;
@@ -8,5 +11,8 @@ public class Bus {
         this.ac = ac;
         this.cap = cap;
     }
+
+    List<Bus> buses = new ArrayList<>();
+    Iterator<Bus> iter = buses.iterator();
 
 }
