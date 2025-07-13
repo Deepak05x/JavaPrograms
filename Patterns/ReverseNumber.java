@@ -1,4 +1,4 @@
-//QUESTION : Write a program to reverse a number.
+package Patterns;
 
 import java.util.Scanner;
 

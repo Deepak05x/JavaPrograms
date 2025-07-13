@@ -1,4 +1,4 @@
-//QUESTION : Right Half Pyramid pattern
+package Patterns;
 
 import java.util.Scanner;
 

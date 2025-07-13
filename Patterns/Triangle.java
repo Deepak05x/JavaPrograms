@@ -1,4 +1,4 @@
-//QUESTION : Triangle Pattern
+package Patterns;
 
 import java.util.Scanner;
 
